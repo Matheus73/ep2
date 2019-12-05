@@ -1,4 +1,7 @@
 # Snake
+## Trabalho da diciplina de Programação Orientada a Objetos
+## link do repositorio usado
+https://gitlab.com/Matheus731/ep2
 
 Matheus Gabriel Alves Rodrigues
 
